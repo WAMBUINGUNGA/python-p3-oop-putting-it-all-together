@@ -39,4 +39,5 @@ class TestShoe:
         assert(stan_smith.condition == "New")
         
         
-   
+   ##!/usr/bin/env python3
+
